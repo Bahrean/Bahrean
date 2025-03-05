@@ -12,6 +12,9 @@
 <img align="right" height="0" src=""  />
 
 ###
+<h1>💻 Tech Stack: </h1>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,6 +53,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+###
+
+<h1> Contact me: </h1>
 
 ###
 
