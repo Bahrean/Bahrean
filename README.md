@@ -74,13 +74,9 @@
 ###
 
 <div align="left">
-  <!-- Replace with your actual project links -->
-  <a href="https://github.com/bahreanassefa/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahreanassefa&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://bahrean-assefa.vercel.app/#projects">
   </a>
-  <a href="https://github.com/bahreanassefa/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahreanassefa&repo=project2&theme=radical" alt="Project 2" />
-  </a>
+
 </div>
 
 ###
