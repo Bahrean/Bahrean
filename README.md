@@ -75,15 +75,14 @@
 
 <div align="left">
   <a href="https://bahrean-assefa.vercel.app/#projects">
+    <h2>Projects</h2>
   </a>
 
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bahreanassefa/count.svg?"  />
-</div>
+
 
 
 
