@@ -23,14 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer with expertise in building scalable web applications using **Laravel** and cross-platform mobile apps with **Flutter**. I love creating user-centric solutions that make a difference.
-
-- 🔭 Currently working on **Agri-Connect & LM** - A comprehensive agricultural platform
-- 🌱 Learning **Advanced Flutter Animations** and **Microservices Architecture**
-- 👯 Looking to collaborate on **Open Source Projects** and **Innovative Mobile Apps**
-- 💬 Ask me about **Laravel, Flutter, Firebase, or RESTful APIs**
-- 📫 How to reach me: **bahreanplusplus@gmail.com**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+   I am Full-Stack Developer building web application and cross-platform mobile apps using Flutter, Firebase Passionate about creating user-centric products.
 
 ## 🛠️ Tech Stack & Tools
 
