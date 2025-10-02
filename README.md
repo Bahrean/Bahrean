@@ -4,30 +4,20 @@
 </h1>
 
 <h3 align="center">
-  💫 Full-Stack Developer & Mobile App Specialist
+  💫 Full-Stack Developer & Mobile App Developer
 </h3>
 
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/Bahrean?style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/Bahrean?style=social)
-  ![Visitors](https://komarev.com/ghpvc/?username=Bahrean&color=blueviolet)
-  
-</div>
+
 
 ###
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+App+Developer;Laravel+Specialist;Flutter+Expert;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+
 
 ###
 
 <br>
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
-</div>
+
 
 ###
 
