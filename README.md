@@ -73,20 +73,6 @@ Comprehensive platform for managing school administration and operations.
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-[![Bahrean's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bahrean&custom_title=Bahrean's%20Contribution%20Graph&theme=react-dark&bg_color=1a1a2e&color=7b68ee&line=7b68ee&point=a29bfe&hide_border=true)](https://github.com/Bahrean)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Bahrean&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 ## 📞 Let's Connect
 
 <div align="center">
