@@ -4,7 +4,6 @@
   
   ### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 📱 Mobile App Developer
   
-  [![CGPA](https://img.shields.io/badge/CGPA-3.39_/4.00-brightgreen?style=flat-square&logo=academicons&logoColor=white)](https://)
   [![Education](https://img.shields.io/badge/Wollo_University-2021--2025-blue?style=flat-square&logo=university&logoColor=white)](https://)
   [![Status](https://img.shields.io/badge/🚀_Available_for_Opportunities-7B68EE?style=flat-square)](https://)
   
