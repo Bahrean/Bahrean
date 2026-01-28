@@ -21,7 +21,7 @@
 
 ## 🎯 Professional Summary
 
-> **Software Engineering student** at **Wollo University** with a strong academic record (CGPA: 3.39). Passionate about building **user-centric web and mobile applications** using modern technologies. Experienced in **full-stack development** with expertise in **Flutter for mobile** and **Laravel for web** applications. Currently seeking opportunities to apply my skills in real-world projects and contribute to innovative software solutions.
+> **Software Engineering student** at **Wollo University** with a strong academic record. Passionate about building **user-centric web and mobile applications** using modern technologies. Experienced in **full-stack development** with expertise in **Flutter for mobile** and **Laravel for web** applications. Currently seeking opportunities to apply my skills in real-world projects and contribute to innovative software solutions.
 
 <br>
 
