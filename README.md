@@ -17,26 +17,6 @@
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=bahrean&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahrean&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrean&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br>
 
 ## 🎯 Professional Summary
