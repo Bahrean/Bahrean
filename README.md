@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👨💻 Bahrean Assefa
+  # 👨💻 Am Bahrean Assefa
   
   ### 🎓 Software Engineer | 💻 Full-Stack Developer | 📱 Mobile App Developer
   
