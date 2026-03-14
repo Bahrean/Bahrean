@@ -44,6 +44,7 @@
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
         <br>
+             <sub><b>Firebase</b></sub>
       </td>
       <td align="center" width="110">
         <img src="https://img.shields.io/badge/Riverpod-7B68EE?style=for-the-badge&logo=riverpod&logoColor=white" height="40" alt="Riverpod" />
