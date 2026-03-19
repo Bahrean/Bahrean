@@ -224,8 +224,7 @@
   
   | Institution | Degree | Duration | Status |
   |-------------|--------|----------|--------|
-  | **Wollo University** | Bachelor of Science in Software Engineering | 2021 - 2025 | 🎓 **In Progress** (CGPA: 3.39) |
-  
+  | **Wollo University** | Bachelor of Science in Software Engineering | 2021 - 2025   
   <br>
   
   ### 🏅 Relevant Coursework
