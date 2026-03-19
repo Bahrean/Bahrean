@@ -67,7 +67,7 @@
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
         <br>
-        <sub><b>Laravel</b></sub>
+        <sub><b>Laravel</b></sub> 
       </td>
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
